@@ -24,7 +24,7 @@ const Product = () => {
             </div>
             <div className='my-40 mx-5 grid grid-cols-2'>
                 <div>
-                    <Image src={'/images/product-sneaker3.png'} width={800} height={800} />
+                    <Image src={'/images/product-sneaker3.png'} width={800} height={800} alt='sneaker-products' />
                 </div>
                 <div className='flex flex-col mx-10'>
                     <h1 className='text-[40px] text-center'>Air Jordan 1 Retro High (University Blue)</h1>
